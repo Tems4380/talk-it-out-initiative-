@@ -1,0 +1,6 @@
+{
+  "name": "Talk It Out",
+  "description": "A community-based communication initiative by Nuel Foundation helping young people communicate with clarity, confidence, empathy and intention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
